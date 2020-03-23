@@ -1,0 +1,16 @@
+# IntelliJ project files
+.idea
+*.iml
+.DS_store
+# Node files
+node_modules
+package-lock.json
+
+# Logs
+*.log
+
+# pid
+*.pid
+
+# Gradle
+.gradle
